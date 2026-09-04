@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"HOME","order":5,"parentId":0,"scrollX":691.7142857142857,"scrollY":432.85714285714283},
+{"id":2,"expanded":false,"name":"Home Exterior","order":9,"parentId":1,"scrollX":1404,"scrollY":783.4285714285713},
+{"id":3,"expanded":false,"name":"Room","order":7,"parentId":4,"scrollX":1404,"scrollY":783.4285714285713},
+{"id":4,"expanded":true,"name":"Home Interior","order":6,"parentId":1,"scrollX":678,"scrollY":767.1428571428571},
+{"id":5,"expanded":true,"name":"York New City","order":1,"parentId":0,"scrollX":1946.3999999999999,"scrollY":1219.2},
+{"id":6,"expanded":false,"name":"Initial Spawn","order":8,"parentId":4,"scrollX":1404,"scrollY":783.4285714285713},
+{"id":7,"expanded":false,"name":"Lobby","order":3,"parentId":9,"scrollX":1965.6,"scrollY":1096.8},
+{"id":8,"expanded":false,"name":"Laboratory","order":4,"parentId":9,"scrollX":811,"scrollY":802},
+{"id":9,"expanded":true,"name":"ELGWorks","order":2,"parentId":5,"scrollX":1965.6,"scrollY":1096.8}
+]
