@@ -15,16 +15,16 @@
 ## 🎮 Ingame Views
 
 <p align="center">
-  <img src="assets/demo/gif/demo-city.gif" width="200"/>
+  <img src="assets/demo/gif/demo-city.gif" width="800"/>
 </p>
 <p align="center">
-  <img src="assets/demo/images/image.png" width="200"/>
+  <img src="assets/demo/images/image.png" width="800"/>
 </p>
 <p align="center">
-  <img src="assets/demo/images/image2.png" width="200"/>
+  <img src="assets/demo/images/image2.png" width="800"/>
 </p>
 <p align="center">
-  <img src="assets/demo/images/image3.png" width="200"/>
+  <img src="assets/demo/images/image3.png" width="800"/>
 </p>
 <p align="center"><b>Lost in another world, a college student seeks a way home — but fate has other plans for him.</b></p>
 
