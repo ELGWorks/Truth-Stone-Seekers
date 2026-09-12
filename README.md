@@ -1,2 +1,39 @@
-# Project-Game
-hello world
+# Truth/Stone Seekers
+
+<p align="center">
+  <a href="https://quests-of-ancient-relics-distant-wo.vercel.app/">
+    <img src="assets/demo/gif/demo-lab.gif" alt="Preview" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Truth/Stone Seekers is an under development game about a college boy's adventure in another world!</b>
+</p>
+
+---
+
+## 🎮 Ingame Views
+
+<p align="center">
+  <img src="assets/demo/gif/demo-city.png" width="200"/>
+</p>
+<p align="center">
+  <img src="assets/demo/images/image.png" width="200"/>
+</p>
+<p align="center">
+  <img src="assets/demo/images/image2.png" width="200"/>
+</p>
+<p align="center">
+  <img src="assets/demo/images/image3.png" width="200"/>
+</p>
+<p align="center"><b>Lost in another world, a college student seeks a way home — but fate has other plans for him.</b></p>
+
+---
+
+## 🚀 Live Demo
+
+<p>
+  <a href="https://quests-of-ancient-relics-distant-wo.vercel.app/" target="_blank">
+    Try the game!
+  </a>
+</p>
