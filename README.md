@@ -15,7 +15,7 @@
 ## 🎮 Ingame Views
 
 <p align="center">
-  <img src="assets/demo/gif/demo-city.png" width="200"/>
+  <img src="assets/demo/gif/demo-city.gif" width="200"/>
 </p>
 <p align="center">
   <img src="assets/demo/images/image.png" width="200"/>
