@@ -32,7 +32,7 @@
 ## 🚀 Live Demo
 
 <p>
-  <a href="https://quests-of-ancient-relics-distant-wo.vercel.app/" target="_blank">
+  <a href="https://classy-torrone-2459c9.netlify.app/" target="_blank">
     Try the game!
   </a>
 </p>
